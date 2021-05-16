@@ -2,9 +2,9 @@
 
 Requirements
 1. Scrape https://kutx.org/playlist for songs (https://realpython.com/modern-web-automation-with-python-and-selenium/)  
-  a. Get to the webpage X
-  b. Pull All Data for Each Song  X
-  c. Parse into iterable format  X
+  a. Get to the webpage X  
+  b. Pull All Data for Each Song  X  
+  c. Parse into iterable format  X  
   d. (Async LearnPython https://realpython.com/python-async-features/)  
  
 2. Search for Each Song on Spoitify  
