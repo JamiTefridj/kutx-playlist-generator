@@ -14,4 +14,5 @@ Requirements
   
 3. Add all songs with Spotify ID to playlist that are not already in playlist  
   a. Return Meta Data - Counts of Songs who Made it, List of Songs that could not be found.  
-  
+   
+Bonus: Load to NoSQL Mongo DB  
